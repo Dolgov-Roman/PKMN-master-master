@@ -20,7 +20,7 @@ public class PkmnApplication {
         //doDescription(pokemon.card, json);
         //CardExport cardExport = new CardExport(pokemon.card);
         //DatabaseServiceImpl databaseService = new DatabaseServiceImpl();
-        //Card card = databaseService.getCardFromDatabase("Heracross");
+        //Card card = databaseService.getCardFromDatabase("LOKLHASS");
         //System.out.println(card.toString());
 
         System.exit(0);
